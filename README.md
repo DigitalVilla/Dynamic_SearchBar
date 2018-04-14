@@ -1,5 +1,5 @@
 # Pro Search
-### A JS prototype for a Dynamic Search Bar
+### A pure Vanilla JS prototype of a dynamic search-bar
 Pure Vanilla and no jQuery! 
 #### Technologies
 Javascript, AJAX and XML  
